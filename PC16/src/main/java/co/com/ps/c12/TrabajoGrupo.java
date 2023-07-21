@@ -1,6 +1,6 @@
 package co.com.ps.c12;
 import java.util.Arrays;
-import java.util.stream.IntStream;
+import java.util.stream.IntStream;    //Se importa paquete para realizar la suma
 public class TrabajoGrupo {
 
         public static void main(String[] args) {
